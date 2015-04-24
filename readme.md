@@ -1,3 +1,8 @@
+Update: Please see this Gist page for getting the latest copy of the converter : https://gist.github.com/answerquest/74c13f73f1bfb21c3177
+
+This repository is kept for archival and net-availability of the excel file that has character mappings which should help others trying to make converters for other legacy fonts.
+
+
 # PuneBudget <==> यूनिकोड परिवर्तित्र (unicode converter)
 
 Aim: Reliably converting Marathi or Hindi language text from a legacy font used in Pune Municipal Corporation's Budget Book and some other documents.. to Marathi language Unicode text.
